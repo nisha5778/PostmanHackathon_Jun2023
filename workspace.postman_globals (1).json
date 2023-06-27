@@ -1,0 +1,152 @@
+{
+	"id": "58b59840-0471-4a58-8f34-3651237c250b",
+	"values": [
+		{
+			"key": "baseURL",
+			"value": "https://lms-api-hackathon-june2023-930a8b0f895d.herokuapp.com/lms",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "teamName",
+			"value": "LightningAPIHackers",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "counterBatch",
+			"value": "0",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "batchDesc",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "batchStatus",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "batchName",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "batchId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "assignmentId",
+			"value": "12",
+			"enabled": true
+		},
+		{
+			"key": "assignmentDescription",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "dynamicNumber",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "counter",
+			"value": "50",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "globaProgramId",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "globalProgramName",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "userID",
+			"value": "U291",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "ProgId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "globalBatchId",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "globalBatchName",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "progName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "progNamebyId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "globalProgramId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "programIdForBatch",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "globalUserId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "globalBatchIdA",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "AssgId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2023-06-27T04:16:26.124Z",
+	"_postman_exported_using": "Postman/10.15.7-230626-1443"
+}
