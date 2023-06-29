@@ -10,7 +10,7 @@ call newman run "User_Jun292023.json" -d Postman_Hackathon_Data.csv -r htmlextra
 
 echo user report generated
 
-call newman run "Assignment_Jun292023.json" -g "C:\\Users\\sivas\\OneDrive\\Documents\\Postman\\workspace.postman_globals.json" -d Postman_Hackathon_Data.csv -r htmlextra --reporter-htmlextra-export ./reports/AssignmentReport1.html
+call newman run "Assignment_Jun292023.json" -g Globals_Jun292023.json -d Postman_Hackathon_Data.csv -r htmlextra --reporter-htmlextra-export ./reports/AssignmentReport1.html
 
 echo Assignment report generated
 
